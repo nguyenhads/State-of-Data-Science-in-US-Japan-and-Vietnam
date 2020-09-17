@@ -1,8 +1,8 @@
-# Data Science in US, Japan and Vietnam
+# Data Science in the US, Japan and Vietnam
 
-In this project, **a situation of data science in three countries: United States, Japan and Vietnam** was analyzed. Data was collected from [2018](https://www.kaggle.com/kaggle/kaggle-survey-2018) and [2019](https://www.kaggle.com/c/kaggle-survey-2019) Kaggle ML & DS Survery. Kaggle's State of ML and DS survey is the most comprehensive dataset available on the state of machine learning and data science today. Therefore, the deep analysis of this data was carried out.
+In this project, **a situation of data science in three countries: United States, Japan and Vietnam** was analyzed. Data was collected from [2018](https://www.kaggle.com/kaggle/kaggle-survey-2018) and [2019](https://www.kaggle.com/c/kaggle-survey-2019) Kaggle ML & DS Survery. Kaggle's State of ML and DS survey is the most comprehensive dataset available on the state of machine learning and data science today. Therefore, the deep analysis of this combined data was carried out carefully.
 
-**This project aims to getting a better understanding of the current state in Data Science filed by the comparison of various kind of information of data scientists in US, Japan and Vietnam.**
+**This project aims to getting a better understanding of the current state in Data Science filed by the comparison of various kind of information of data scientists in the US, Japan and Vietnam.**
 
 The structure of the project is divided into two main parts.
 
@@ -33,9 +33,9 @@ In total, 9343 participants who come from US, Japan and Vietnam were analyzed. T
 
 (2) The age of data scientists in all three countries are relatively young. However, US shows the dominant of the number of experienced data scientist with wider age range of respondents.
 
-(3) The education of data scientist in US is considerably high with more than 80% of respondents having master and doctoral degree. These number drop considerably to about 70% and 45% in Japan and Vietnam, respectively.
+(3) The education of data scientist in the US is considerably high with more than 80% of respondents having master and doctoral degree. These number drop considerably to about 70% and 45% in Japan and Vietnam, respectively.
 
-(4) The average salary for data scientist in US is very high (~100k USD), and ranks in a second place. Japan has lower salary for data scientist and it is relatively same to other IT careers. The salary of data scientist in Vietnam is generally high, and highly depends on the ability of the candidate.
+(4) The average salary for data scientist in the US is very high (~100k USD), and ranks in a second place. Japan has lower salary for data scientist and it is relatively same to other IT careers. The salary of data scientist in Vietnam is generally high, and highly depends on the ability of the candidate.
 
 (5) The most popular platform to learn data science is Blog and Kaggle. In Japan and Vietnam, due to the language barrier, many people prefer more practical approach using Kaggle than reading a blog.
 
