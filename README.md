@@ -39,4 +39,4 @@ In total, 9343 participants who come from US, Japan and Vietnam were analyzed. T
 
 (5) The most popular platform to learn data science is Blog and Kaggle. In Japan and Vietnam, due to the language barrier, many people prefer more practical approach using Kaggle than reading a blog.
 
-If you cannot see the results from Plotly, please click [here](https://nbviewer.jupyter.org/github/nguyenhads/State-of-Data-Science-in-US-Japan-and-Vietnam/blob/master/State-of-Data-Science-In-US-Japan-Vietnam.ipynb) to view by nbviewer.
+If you cannot see the results from Plotly, please click [here](https://nbviewer.jupyter.org/github/nguyenhads/Predicting-A-Salary-Binary-Classification/blob/main/Predicting-salary-binary-classification-focus-on-preprocessing.ipynb) to view by nbviewer.
